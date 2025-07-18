@@ -1,0 +1,11 @@
+Model Information:
+* title:	Vatican and St. Peter Basilica
+* source:	https://sketchfab.com/3d-models/vatican-and-st-peter-basilica-1d936fe09cc64376802b196157a73d16
+* author:	Ignazio Pillitteri (https://sketchfab.com/gnaz)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Vatican and St. Peter Basilica" (https://sketchfab.com/3d-models/vatican-and-st-peter-basilica-1d936fe09cc64376802b196157a73d16) by Ignazio Pillitteri (https://sketchfab.com/gnaz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
