@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bubblegum Maze
+* source:	https://sketchfab.com/3d-models/bubblegum-maze-c4f59b1ae58042dcba7aa1b4badb2b96
+* author:	carysgooi (https://sketchfab.com/carysgooi)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bubblegum Maze" (https://sketchfab.com/3d-models/bubblegum-maze-c4f59b1ae58042dcba7aa1b4badb2b96) by carysgooi (https://sketchfab.com/carysgooi) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
